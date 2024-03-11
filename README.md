@@ -1,8 +1,8 @@
-### Olá, eu sou o Gustavo Anjos!
+### Olá, eu sou o Gustavo Anjos🥰
 
 - 🔭 Estou na busca da minha primeira oportunidade profissional na área de T.I!
-- 🌱 Estudando Bancos noSQL, I.A, Engenharia de Software e Arquitertura de Software (faculdade)
-- 👯 Realizando projetos de programação, e cada vez mais me aprofundando nesta área que tanto amo :D
+- 🌱 Estudando Bancos noSQL, I.A, Engenharia de Software e Arquitertura de Software
+- 👯 Realizando projetos de programação, e cada vez mais me aprofundando nesta área que tanto amo🖥️❤️
 - 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
