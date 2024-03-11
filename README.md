@@ -3,7 +3,7 @@
 - 🔭 Estou na busca da minha primeira oportunidade profissional na área de T.I!
 - 🌱 Estudando Bancos noSQL, I.A, Engenharia de Software e Arquitertura de Software
 - 👯 Realizando projetos de programação, e cada vez mais me aprofundando nesta área que tanto amo🖥️❤️
-- 😄 Pronomes: Ele/Dele
+- 😄 Pronomes: Ele/Dele 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
