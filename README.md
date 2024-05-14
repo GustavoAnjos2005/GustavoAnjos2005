@@ -1,8 +1,4 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
-
-
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas que está começando à sua jornada na área de T.I, amo resolver problemas e construir sistemas e progamas usando a tecnologia, estou buscando novos aprendizados a cada dia que se passa!❤️😄</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
