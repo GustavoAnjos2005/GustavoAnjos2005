@@ -1,7 +1,5 @@
 
-<p align="center">Olá, sejam todos bem vindos, sou o Gustavo!! <br><br>Estudante de Análise e Desenvolvimento de Sistemas, na Faculdade Carlos Drummond de Andrade (FCDA), que está começando à sua jornada na área de T.I, amo resolver problemas e construir sistemas e progamas usando a tecnologia, estou buscando novos aprendizados a cada dia que se passa!❤️😄
-
-Quem quiser dar uma olhada, passe no meu site de portfólio🙏:https://gustavo-anjos-portfolio.netlify.app/</p>&nbsp;
+<p align="center">Hello, everyone, welcome! I'm Gustavo!!<br></br>I’m a student of Software Analysis and Development at Faculdade Carlos Drummond de Andrade (FCDA), starting my journey in the IT field. I love solving problems and building systems and programs using technology. I’m eager to learn new things every day! ❤️😄/</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustavoanjos2005&theme=radical&mode=weekly" />
