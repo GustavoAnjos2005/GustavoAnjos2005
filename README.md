@@ -1,5 +1,5 @@
 
-<p align="center">Hello, everyone, welcome! I'm Gustavo!!<br></br>I’m a student of Software Analysis and Development at Faculdade Carlos Drummond de Andrade (FCDA), starting my journey in the IT field. I love solving problems and building systems and programs using technology. I’m eager to learn new things every day! ❤️😄/</p>&nbsp;
+<p align="center">Hello, everyone, welcome! I'm Gustavo!!<br></br>I’m a student of Software Analysis and Development at Faculdade Carlos Drummond de Andrade (FCDA), starting my journey in the IT field. I love solving problems and building systems and programs using technology. I’m eager to learn new things every day! ❤️😄</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustavoanjos2005&theme=radical&mode=weekly" />
