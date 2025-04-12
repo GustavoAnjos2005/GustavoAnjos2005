@@ -11,16 +11,14 @@
 <p>
   Hello 👋, I'm Gustavo! A passionate programming student from Brazil.
 
-  - 🌱 I'm currently studying Software Analysis and Development at Faculdade Carlos Drummond de Andrade (FCDA).
-  
-  - 🔭 Looking for my first professional opportunity in the IT field!
+  - 🌱 I'm currently studying Programming Logic, Web Developer, Operating System and Computing Mathematics at Faculdade Carlos Drummond de Andrade (FCDA).
+  - 🔭 Looking for my first professional opportunity in the I.T field!
 </p>
 
 <p>👨‍💻 More About Me
   
-  - 💬 In college, I am currently studying Object-Oriented Programming, Web and Mobile Development, Introduction to Big Data, and Business Intelligence.
-
-  - ⚡ I love solving problems and building systems and programs using technology. I'm eager to learn new things every day! ❤️😄
+  - 💬 I'm 19 years old and have been studying IT since I was 16, constantly working to improve my skills. I'm currently focused on Development and Data fields.
+  - 🏠 I'm a homebody who enjoys watching movies/series, playing video games (pretty nerdy hahaha), weight training, listening to music, and spending time with loved ones ❤️😄!
 </p>
 
 ---
@@ -64,8 +62,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)&nbsp;
-&nbsp;
-&nbsp;
 
 ---
 
@@ -76,44 +72,39 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoanjos2005&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   </a>
   
-  <br><br>
+  <br>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavoanjos2005&theme=synthwave&border_radius=10)](https://git.io/streak-stats)
   
-  <br><br>
+  <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavoanjos2005&theme=synthwave" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavoanjos2005&theme=synthwave"/>
   </a>
 </div>
 
-<br clear="both">
-
 ---
 
-<br>
-
 <div align="center">
-   🚀 Asteriod-Master
-
-[![Jogar Nave Espacial](https://img.shields.io/badge/JOGUE_AQUI-8F0D87?style=for-the-badge&logo=game-controller&logoColor=white&labelColor=1a0033)](https://gustavoanjos2005.github.io/spaceship-game/)
-
-> Clique no botão acima para jogar o jogo da nave espacial roxa! Evite os asteroides e marque a maior pontuação possível.
-<br>
-<br>
-
-<div align="center">
-<p align="center"><b>Visitors Count</b></p> 
-<img align="center" src="https://visit-counter.vercel.app/counter.png?page=gustavoanjos2005&s=40&c=8F0D87&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
+  <h2>🚀 Asteroid-Master</h2>
+  
+  [![Jogar Nave Espacial](https://img.shields.io/badge/JOGUE_AQUI-8F0D87?style=for-the-badge&logo=game-controller&logoColor=white&labelColor=1a0033)](https://gustavoanjos2005.github.io/spaceship-game/)
+  
+  <p>Clique no botão acima para jogar o jogo da nave espacial roxa! Evite os asteroides e marque a maior pontuação possível.</p>
+  
+  <br>
+  
+  <p align="center"><b>Visitors Count</b></p> 
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=gustavoanjos2005&s=40&c=8F0D87&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
 </div>
 
 <br>
 
 <div align="center">
-<h3> Contact Me </h3>
-<a href="https://www.instagram.com/anjos_guu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:anjos7623@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavo-anjos-231981239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+  <h3>Contact Me</h3>
+  <a href="https://www.instagram.com/anjos_guu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:anjos7623@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-anjos-231981239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8F0D87&section=footer">
