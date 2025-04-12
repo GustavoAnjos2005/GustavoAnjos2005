@@ -82,7 +82,6 @@
   
   <br><br>
   
-  <!-- Widget de linguagens por repositório com tema synthwave -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavoanjos2005&theme=synthwave" />
   </a>
@@ -97,7 +96,7 @@
 <div align="center">
    🚀 Asteriod-Master
 
-[![Jogar Nave Espacial](https://img.shields.io/badge/JOGUE_AQUI-8F0D87?style=for-the-badge&logo=game-controller&logoColor=white&labelColor=1a0033)](https://GustavoAnjos2005.github.io/GustavoAnjos2005/spaceship-game.html)
+[![Jogar Nave Espacial](https://img.shields.io/badge/JOGUE_AQUI-8F0D87?style=for-the-badge&logo=game-controller&logoColor=white&labelColor=1a0033)](https://gustavoanjos2005.github.io/spaceship-game/)
 
 > Clique no botão acima para jogar o jogo da nave espacial roxa! Evite os asteroides e marque a maior pontuação possível.
 <br>
