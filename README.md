@@ -90,7 +90,7 @@
   
   [![Jogar Nave Espacial](https://img.shields.io/badge/JOGUE_AQUI-8F0D87?style=for-the-badge&logo=game-controller&logoColor=white&labelColor=1a0033)](https://gustavoanjos2005.github.io/spaceship-game/)
   
-  <p>Clique no botão acima para jogar o jogo da nave espacial roxa! Evite os asteroides e marque a maior pontuação possível.</p>
+  <p>Click the button above to play the purple spaceship game! Avoid the asteroids and score the highest score possible.</p>
   
   <br>
   
