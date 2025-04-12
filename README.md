@@ -1,22 +1,33 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8F0D87">
 
-<p align="center">Hello, everyone, welcome! I'm Gustavo!!<br></br>I’m a student of Software Analysis and Development at Faculdade Carlos Drummond de Andrade (FCDA), starting my journey in the IT field and I'm looking for my first professional opportunity! I love solving problems and building systems and programs using technology. I’m eager to learn new things every day! ❤️😄</p>
-
-<p align="center">In college, I am currently studying Object-Oriented Programming, Web and Mobile Development, Introduction to Big Data, and Business Intelligence, for those who are curious to know 😉</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustavoanjos2005&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://readme-stats-git-main-gustavo-anjos-de-souzas-projects.vercel.app/api/top-langs/?username=gustavoanjos2005&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div align="center">
+  
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=8F0D87&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+my+name+is+Gustavo.;I'm+a+Software+Developer.;Welcome+to+my+profile!)](https://git.io/typing-svg)
  
- &nbsp;
- &nbsp;
+</div>
 
+<br clear="both">
 
+<p>
+  Hello 👋, I'm Gustavo! A passionate programming student from Brazil.
+
+  - 🌱 I'm currently studying Software Analysis and Development at Faculdade Carlos Drummond de Andrade (FCDA).
+  
+  - 🔭 Looking for my first professional opportunity in the IT field!
+</p>
+
+<p>👨‍💻 More About Me
+  
+  - 💬 In college, I am currently studying Object-Oriented Programming, Web and Mobile Development, Introduction to Big Data, and Business Intelligence.
+
+  - ⚡ I love solving problems and building systems and programs using technology. I'm eager to learn new things every day! ❤️😄
+</p>
+
+---
 
 ## Skills
 
 #### Main languages:
-
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -27,7 +38,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary languages:
@@ -36,7 +46,6 @@
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-
 
 #### Currently Studying:
 
@@ -58,15 +67,54 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+---
 
-<div> 
-<a href="https://www.instagram.com/anjos_guu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  
+  <a href="https://github.com/gustavoanjos2005">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoanjos2005&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  </a>
+  
+  <br><br>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavoanjos2005&theme=synthwave&border_radius=10)](https://git.io/streak-stats)
+  
+  <br><br>
+  
+  <!-- Widget de linguagens por repositório com tema synthwave -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavoanjos2005&theme=synthwave" />
+  </a>
+</div>
+
+<br clear="both">
+
+---
+
+<br>
+
+<div align="center">
+   🚀 Asteriod-Master
+
+[![Jogar Nave Espacial](https://img.shields.io/badge/JOGUE_AQUI-8F0D87?style=for-the-badge&logo=game-controller&logoColor=white&labelColor=1a0033)](https://GustavoAnjos2005.github.io/GustavoAnjos2005/spaceship-game.html)
+
+> Clique no botão acima para jogar o jogo da nave espacial roxa! Evite os asteroides e marque a maior pontuação possível.
+<br>
+<br>
+
+<div align="center">
+<p align="center"><b>Visitors Count</b></p> 
+<img align="center" src="https://visit-counter.vercel.app/counter.png?page=gustavoanjos2005&s=40&c=8F0D87&bg=00000000&no=3&ff=digi&tb=Visits%3A+&ta=">
+</div>
+
+<br>
+
+<div align="center">
+<h3> Contact Me </h3>
+<a href="https://www.instagram.com/anjos_guu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:anjos7623@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-anjos-231981239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>
 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8F0D87&section=footer">
