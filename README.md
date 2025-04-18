@@ -88,7 +88,7 @@
 <div align="center">
   <h2>🚀 Asteroid-Master</h2>
   
-  [![Jogar Nave Espacial](https://img.shields.io/badge/PLAY_HERE-8F0D87?style=for-the-badge&logo=game-controller&logoColor=white&labelColor=1a0033)](https://gustavoanjos2005.github.io/spaceship-game/)
+  [![Jogar Nave Espacial](https://img.shields.io/badge/PLAY_HERE-8F0D87?style=for-the-badge&logo=game-controller&logoColor=white&labelColor=1a0033)](https://asteroid-master.netlify.app/)
   
   <p>Click the button above to play the purple spaceship game! Avoid the asteroids and score the highest score possible.</p>
   
