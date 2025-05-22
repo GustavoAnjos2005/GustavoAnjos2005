@@ -68,7 +68,7 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   
-  <a href="https://github.com/gustavoanjos2005">
+  <a href="https://github.com/GustavoAnjos2005">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoanjos2005&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   </a>
   
