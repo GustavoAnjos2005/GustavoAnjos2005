@@ -17,7 +17,7 @@
 
 <p>👨‍💻 More About Me
   
-  - 💬 I'm 19 years old and have been studying IT since I was 16, constantly working to improve my skills. I'm currently focused on Development and Data fields.
+  - 💬 I'm 20 years old and have been studying IT since I was 16, constantly working to improve my skills. I'm currently focused on Development and Data fields.
   - 🏠 I'm a homebody who enjoys watching movies/series, playing video games (pretty nerdy hahaha), weight training, listening to music, and spending time with loved ones ❤️😄!
 </p>
 
