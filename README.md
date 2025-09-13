@@ -11,8 +11,8 @@
 <p>
   Hello 👋, I'm Gustavo! A passionate programming student from Brazil.
 
-  - 🌱 I'm currently studying Programming Logic, Web Developer, Operating System and Computing Mathematics at Faculdade Carlos Drummond de Andrade (FCDA).
-  - 🔭 Looking for my first professional opportunity in the I.T field!
+  - 🌱 I'm currently studying Computer Network, Systems, Processes and Organization, IT Management and Database at Faculdade Carlos Drummond de Andrade (FCDA).
+  - 🚀 Working as a Young Apprentiec at Terra Investimentos!
 </p>
 
 <p>👨‍💻 More About Me
